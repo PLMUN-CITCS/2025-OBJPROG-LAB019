@@ -1,3 +1,1 @@
-Integer value: 10
-Double value: 3.14
-String value: Hello!
+Enter a non-negative integer: The factorial of 10 is: 3628800
