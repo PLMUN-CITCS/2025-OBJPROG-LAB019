@@ -95,7 +95,7 @@ Only perform this if this is the first time you will setup your Git Environment
    The factorial of 0 is: 1
    ```
 
-   **Notable Observations (to be discussed after completing the exercise):**
+   **Notable Observations:**
    - This activity emphasizes the use of methods for input validation and complex calculations.
    - Input validation is important to prevent unexpected errors and ensure program robustness.
 
